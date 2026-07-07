@@ -1,1 +1,1 @@
-{"completed":true,"completed_at":"2026-07-07T08:00:09Z","source_status":"fresh","fetch_mode":"anonymous_reports_sync","records_fetched":2038,"records_cleaned":2033,"records_exported":2038,"used_stale_data":false,"reason":"anonymous_reports_sync","bmc_fetch_skipped":true}
+{"completed":true,"completed_at":"2026-07-07T08:00:36Z","source_status":"fresh","fetch_mode":"objectid_cursor","records_fetched":2042,"records_cleaned":2037,"records_exported":2037,"last_objectid":16641,"page_size":250,"used_stale_data":false}
